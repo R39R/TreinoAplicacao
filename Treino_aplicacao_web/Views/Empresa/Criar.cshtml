@@ -1,0 +1,68 @@
+﻿@model Treino_aplicacao_web.ViewModel.Empresa.EmpresaFormViewModel
+
+@{
+    ViewBag.Title = "Criar Empresa";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="container mt-4">
+    @using (Html.BeginForm("Criar", "Empresa", FormMethod.Post, new { @class = "needs-validation", novalidate = "novalidate" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            @Html.HiddenFor(m => m.Id)
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="Nome" class="form-label">Nome</label>
+                    @Html.TextBoxFor(m => m.Nome, new { @class = "form-control", placeholder = "Insira o nome da empresa" })
+                    @Html.ValidationMessageFor(m => m.Nome, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="col-md-6">
+                    <label for="CNPJ" class="form-label">CNPJ</label>
+                    @Html.TextBoxFor(m => m.CNPJ, new { @class = "form-control", placeholder = "Insira o CNPJ da empresa" })
+                    @Html.ValidationMessageFor(m => m.CNPJ, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="Pais" class="form-label">País</label>
+                    @Html.TextBoxFor(m => m.Pais, new { @class = "form-control", placeholder = "Insira o país da empresa" })
+                    @Html.ValidationMessageFor(m => m.Pais, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="col-md-6">
+                    <label for="Endereco" class="form-label">Endereco</label>
+                    @Html.TextBoxFor(m => m.Endereco, new { @class = "form-control", placeholder = "Insira o endereço da empresa" })
+                    @Html.ValidationMessageFor(m => m.Endereco, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="NumeroDoEndereco" class="form-label">Numero do endereco</label>
+                    @Html.TextBoxFor(m => m.NumeroDoEndereco, new { @class = "form-control", type = "int", placeholder = "Insira o numero do endereço" })
+                    @Html.ValidationMessageFor(m => m.NumeroDoEndereco, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="CEP" class="form-label">CEP</label>
+                    @Html.TextBoxFor(m => m.CEP, new { @class = "form-control", type = "int", placeholder = "Insira o numero do endereço" })
+                    @Html.ValidationMessageFor(m => m.CEP, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+    }
+</div>
