@@ -1,0 +1,19 @@
+﻿@model Treino_aplicacao_web.ViewModel.Empresa.EmpresaDeletaViewModel
+
+<h2>Deleta Empresa</h2>
+
+<p>Você tem certeza que deseja deletar esta empresa?</p>
+
+<p>
+    <strong>Nome:</strong> @Model.Nome <br />
+    <strong>Cnpj:</strong> @Model.CNPJ <br />
+</p>
+
+@using (Html.BeginForm("DeletarConfirmado", "Empresa"))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(model => model.Id)
+    <button type="submit" class="btn btn-danger">Deleta</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancela</a>
+}

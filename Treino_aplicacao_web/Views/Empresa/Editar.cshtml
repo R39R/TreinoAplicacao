@@ -1,13 +1,13 @@
 ﻿@model Treino_aplicacao_web.ViewModel.Empresa.EmpresaFormViewModel
 
 @{
-    ViewBag.Title = "Criar Empresa";
+    ViewBag.Title = "Editar Empresa";
 }
 
 <h2>@ViewBag.Title</h2>
 
 <div class="container mt-4">
-    @using (Html.BeginForm("Criar", "Empresa", FormMethod.Post, new { @class = "needs-validation", novalidate = "novalidate" }))
+    @using (Html.BeginForm("Editar", "Empresa", FormMethod.Post, new { @class = "needs-validation", novalidate = "novalidate" }))
     {
         @Html.AntiForgeryToken()
 
@@ -67,7 +67,7 @@
 
         <div class="form-group mt-3">
             <button type="submit" class="btn btn-primary">
-                <text>Criar</text>
+                <text>Salvar</text>
             </button>
             <a href="@Url.Action("Index", "Empresa")" class="btn btn-secondary">Cancelar</a>
         </div>

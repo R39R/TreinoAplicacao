@@ -1,0 +1,16 @@
+﻿@model Treino_aplicacao_web.ViewModel.Empresa.EmpresaDetalhesViewModel
+
+<h2>Detalhes da empresa</h2>
+
+<p>
+    <strong>Nome:</strong> @Model.Nome <br />
+    <strong>Cnpj:</strong> @Model.CNPJ <br />
+    <strong>Pais:</strong> @Model.Pais <br />
+    <strong>Endereco:</strong> @Model.Endereco <br />
+    <strong>NumeroDoEndereco:</strong> @Model.NumeroDoEndereco <br />
+    <strong>CEP:</strong> @Model.CEP <br />
+</p>
+
+<p>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Voltar</a>
+</p>

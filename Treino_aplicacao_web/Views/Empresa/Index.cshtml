@@ -1,0 +1,37 @@
+﻿﻿@model IEnumerable<Treino_aplicacao_web.ViewModel.Empresa.EmpresaIndexViewModel>
+
+<h2>Empresa</h2>
+<p>
+    <a href="@Url.Action("Criar")" class="btn btn-primary">Criar Novo</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>CNPJ</th>
+            <th>Pais</th>
+            <th>Endereco</th>
+            <th>NumeroDoEndereco</th>
+            <th>CEP</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var empresa in Model)
+        {
+            <tr>
+                <td>@empresa.Nome</td>
+                <td>@empresa.CNPJ</td>
+                <td>@empresa.Pais</td>
+                <td>@empresa.Endereco</td>
+                <td>@empresa.NumeroDoEndereco</td>
+                <td>@empresa.CEP</td>
+                <td>
+                    <a href="@Url.Action("Detalhes", new { id = empresa.Id })">Detalhes</a> |
+                    <a href="@Url.Action("Editar", new { id = empresa.Id })">Editar</a> |
+                    <a href="@Url.Action("Deletar", new { id = empresa.Id })">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

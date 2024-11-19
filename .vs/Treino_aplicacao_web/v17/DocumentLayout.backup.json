@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Controllers\\EmpresaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:Treino_aplicacao_web\\Controllers\\EmpresaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|c:\\users\\vrosa\\source\\repos\\treino_aplicacao_web\\treino_aplicacao_web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:treino_aplicacao_web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Models\\Empresa\\Empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:Treino_aplicacao_web\\Models\\Empresa\\Empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDeletaViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDeletaViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|c:\\users\\vrosa\\source\\repos\\treino_aplicacao_web\\treino_aplicacao_web\\viewmodel\\empresa\\empresadetalhesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:treino_aplicacao_web\\viewmodel\\empresa\\empresadetalhesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Database\\EmpresaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:Treino_aplicacao_web\\Database\\EmpresaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|c:\\users\\vrosa\\source\\repos\\treino_aplicacao_web\\treino_aplicacao_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFB6AD45-505C-475B-92D9-0D15A6778D04}|Treino_aplicacao_web\\Treino_aplicacao_web.csproj|solutionrelative:treino_aplicacao_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,80 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Treino_aplicacao_web\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Treino_aplicacao_web\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T00:43:27.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmpresaDetalhesViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDetalhesViewModel.cs",
-              "RelativeDocumentMoniker": "Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDetalhesViewModel.cs",
-              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDetalhesViewModel.cs",
-              "RelativeToolTip": "Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDetalhesViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:37:33.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmpresaDeletaViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDeletaViewModel.cs",
-              "RelativeDocumentMoniker": "Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDeletaViewModel.cs",
-              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDeletaViewModel.cs",
-              "RelativeToolTip": "Treino_aplicacao_web\\ViewModel\\Empresa\\EmpresaDeletaViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:37:28.26Z",
+              "WhenOpened": "2024-11-19T18:35:32.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Empresa.cs",
-              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Models\\Empresa\\Empresa.cs",
-              "RelativeDocumentMoniker": "Treino_aplicacao_web\\Models\\Empresa\\Empresa.cs",
-              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Models\\Empresa\\Empresa.cs",
-              "RelativeToolTip": "Treino_aplicacao_web\\Models\\Empresa\\Empresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:33:12.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpresaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Database\\EmpresaDbContext.cs",
-              "RelativeDocumentMoniker": "Treino_aplicacao_web\\Database\\EmpresaDbContext.cs",
-              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Database\\EmpresaDbContext.cs",
-              "RelativeToolTip": "Treino_aplicacao_web\\Database\\EmpresaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:19:06.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmpresaController.cs",
-              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Controllers\\EmpresaController.cs",
-              "RelativeDocumentMoniker": "Treino_aplicacao_web\\Controllers\\EmpresaController.cs",
-              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Controllers\\EmpresaController.cs",
-              "RelativeToolTip": "Treino_aplicacao_web\\Controllers\\EmpresaController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwDMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:08:22.947Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vrosa\\source\\repos\\Treino_aplicacao_web\\Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Treino_aplicacao_web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T18:24:23.836Z",
               "EditorCaption": ""
             }
           ]
