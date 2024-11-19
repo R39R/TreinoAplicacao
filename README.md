@@ -18,7 +18,7 @@ Este é um projeto feito para testar conceitos basicos de ASPNET MVC, é uma peq
 
 🏄‍♂️ Instalando e rodando:
 
-    Clone this repository git clone https://github.com/R39R/Treino_aplicacao_web.git
+    Clone esse repositório git clone https://github.com/R39R/Treino_aplicacao_web.git
     Abra a solução Treino_aplicacao_web/Treino_aplicacao_web.sln no Visual Studio
     Restaure o Nuget packages
     Mude a connectionstring em Treino_aplicacao_web/Web.config
