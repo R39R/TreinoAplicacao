@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading.Tasks;
-using System.Web;
 using System.Web.Mvc;
+using Treino_aplicacao_web.Database;
+using System.Data.Entity;
+using Treino_aplicacao_web.ViewModel.Empresa;
 
 namespace Treino_aplicacao_web.Controllers
 {
@@ -14,7 +14,7 @@ namespace Treino_aplicacao_web.Controllers
 
         public EmpresaController() 
         {
-            _context = new EmpresaDbContext;
+            _context = new EmpresaDbContext();
         }
 
         public async Task<ActionResult> Index()

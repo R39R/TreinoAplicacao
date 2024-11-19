@@ -10,7 +10,7 @@ namespace Treino_aplicacao_web.Database
         {
         }
 
-        public DbSet<Import> Import { get; set; }
+        public DbSet<Empresa> Empresa { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
